@@ -11,4 +11,7 @@
 | Misc | [Fluffy Transform](misc/fluffy-transform/README.md) | `kaspersky{P4WS_1N_TH3_SP3CTRUM}` |
 | Crypto | [Sudokrypt](crypto/sudokrypt/README.md) | `kaspersky{D4mn_1m_s0_c00l!!_1_c4n_d0_sud0ku_n0w_st4cy_t0t4lly_g01ng_t0_pr0m_w1th_m3}` |
 | Reverse | [Yet another malware](reverse/yet-another-malware/README.md) | `kaspersky{d0_y0u_l1k3_th1s3_p4st4?}` |
+| Web | [Skudik for Studik](web/skudik-for-studik/README.md) | `kaspersky{dea30cda-619a-4d0b-8e1b-0a1f1cddc2a7}` |
+| Web | [Kube Adventure](web/kube-adventure/README.md) | `kaspersky{296b482c-7b68-4c53-aeb8-b9adeffbe81a}` |
+| Web | [Garden](web/garden/README.md) | `kaspersky{0ld_s4mur4i_w0u1d_b3_pr0u6}` |
 
