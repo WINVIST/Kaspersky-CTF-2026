@@ -14,4 +14,4 @@
 | Web | [Skudik for Studik](web/skudik-for-studik/README.md) | `kaspersky{dea30cda-619a-4d0b-8e1b-0a1f1cddc2a7}` |
 | Web | [Kube Adventure](web/kube-adventure/README.md) | `kaspersky{296b482c-7b68-4c53-aeb8-b9adeffbe81a}` |
 | Web | [Garden](web/garden/README.md) | `kaspersky{0ld_s4mur4i_w0u1d_b3_pr0u6}` |
-
+| Web | [Cloud Storage](web/cloud-storage/README.md) | `kaspersky{ffbfb669-7f9a-4878-bd16-11e8c5c81a21}` |
